@@ -1,2 +1,3 @@
 # ActivityResultApi_Demo
- activity result api demo
+学习ActivityResultApi时写的Demo
+@link to https://howisgoing.today/?p=553
